@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">First Aid Quiz</string>
+
+    <string name="question1">You’re having lunch with a friend and he begins to choke on some food. He can’t speak, breathe or cough it up. How can you help? </string>
+    <string name="answer1_a">Put your fingers down his throat to try to dislodge the obstruction</string>
+    <string name="answer1_b">Do the Heimlich manoeuvre on him </string>
+    <string name="answer1_c">Give up to five back blows between his shoulder blades </string>
+
+    <string name="question2">Your colleague is complaining of breathlessness and a tight pain in the chest. You suspect a heart attack. What should you do? </string>
+    <string name="answer2_a">Get him to lay down flat </string>
+    <string name="answer2_b">Encourage him to stand up and move around slowly </string>
+    <string name="answer2_c">Sit him in a comfortable position </string>
+
+    <string name="question3">One of your friends has cut his arm and is bleeding severely. How do you treat his injury? </string>
+    <string name="answer3_a">Put the injured limb in some cold water</string>
+    <string name="answer3_b">Apply direct pressure over the wound</string>
+    <string name="answer3_c">Give him an aspirin</string>
+
+    <string name="question4">You’re walking home and you see a man lying on the ground. You ask him if he’s all right but he doesn’t respond. What should you do next?</string>
+    <string name="answer4_a">Leave him to wake up by himself </string>
+    <string name="answer4_b">Begin CPR</string>
+    <string name="answer4_c">Check his airway is clear</string>
+
+    <string name="question5">You need to perform CPR on your neighbour after she collapsed and stopped breathing. How many chest compressions to rescue breaths should you do?</string>
+    <string name="answer5_a">30 compressions to two breaths </string>
+    <string name="answer5_b">20 compressions to five breaths </string>
+    <string name="answer5_c">15 compressions to three breaths</string>
+
+    <string name="question6">Your friend has a severe allergy and carries an auto-injector. Choose the true statement.</string>
+    <string name="answer6_a">Anyone can help your friend to use their auto-injector during a severe allergic reaction </string>
+    <string name="answer6_b">Only your friend can use their auto-injector during a severe allergic reaction</string>
+    <string name="answer6_c">You must have specific training to help your friend use their auto-injector during a severe allergic reaction</string>
+
+
+    <string name="question7">If someone is unresponsive and breathing, what is the key action you can take to help them?</string>
+    <string name="answer7_a">Move them onto their front and tilt their head to the side</string>
+    <string name="answer7_b">Move them onto their back and tilt their head back</string>
+    <string name="answer7_c">Move them onto their side and tilt their head back</string>
+
+    <string name="question8">If someone has a burn, what is the key action you can take to help?</string>
+    <string name="answer8_a">Cover the burn</string>
+    <string name="answer8_b">Cool the burn</string>
+    <string name="answer8_c">Clean the burn</string>
+
+    <string name="question9">If a person with hypothermia has wet clothes on, what should you do?</string>
+    <string name="answer9_a">Remove all their wet clothes and wrap them in whatever else is available</string>
+    <string name="answer9_b">Remove some of their wet clothes and give them some of your clothes</string>
+    <string name="answer9_c">Leave them in their wet clothes and wrap them in a blanket or other clothing</string>
+
+    <string name="question10">Your friend is having a seizure and an ambulance is on the way. What can you do to help them?</string>
+    <string name="answer10_a">Help them take their medication</string>
+    <string name="answer10_b">Leave them alone and give them privacy</string>
+    <string name="answer10_c">Make them safe and prevent injury</string>
+
+    <string name="question11">If someone has a broken bone, which of the following statements is true?</string>
+    <string name="answer11_a">If you do not support the limb, it doesn’t matter. The bone will just naturally heal on its own</string>
+    <string name="answer11_b">If you do not support the limb, the person will be able to move the limb more easily and reduce the pain</string>
+    <string name="answer11_c">If you do not support the limb it may cause further injury and pain</string>
+
+</resources>
